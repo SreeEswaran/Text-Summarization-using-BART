@@ -15,7 +15,7 @@ This project demonstrates text summarization using the BART (Bidirectional and A
 
 1. Clone the repository and install dependencies:
   
-  ```sh
+  ```bash
   git clone https://github.com/SreeEswaran/Text-Summarization-using-BART.git
   cd Text-Summarization-using-BART
   ```
