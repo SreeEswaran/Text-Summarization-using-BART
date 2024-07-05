@@ -1,0 +1,6 @@
+pycache/
+*.pyc
+*.pth
+*.pkl
+data/
+outputs/
