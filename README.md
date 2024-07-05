@@ -19,7 +19,6 @@ This project demonstrates text summarization using the BART (Bidirectional and A
   git clone https://github.com/SreeEswaran/Text-Summarization-using-BART.git
   cd Text-Summarization-using-BART
   ```
-
 2. Install the dependencies
    ```bash
    pip install -r requirements.txt
