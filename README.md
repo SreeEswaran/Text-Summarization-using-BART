@@ -10,7 +10,6 @@ This project demonstrates text summarization using the BART (Bidirectional and A
 - **Summarization Script**: Generate text summaries using the trained model.
 - **Results Visualization**: Save and view generated summaries.
 
-
 ## Setup
 
 1. Clone the repository and install dependencies:
@@ -19,7 +18,9 @@ This project demonstrates text summarization using the BART (Bidirectional and A
   git clone https://github.com/SreeEswaran/Text-Summarization-using-BART.git
   cd Text-Summarization-using-BART
   ```
+
 2. Install the dependencies
+   
    ```bash
    pip install -r requirements.txt
    ```
